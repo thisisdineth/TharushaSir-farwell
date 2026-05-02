@@ -251,7 +251,7 @@ export default function App() {
               {t.footerTribute}
             </p>
             <p className="typewriter text-[10px] text-slate-300 uppercase tracking-widest">
-              2024 &bull; Designed by Dineth Dilhara &bull; Apilageai PVT LTD
+              2024 &bull; Designed by Dineth Dilshan &bull; Apilageai PVT LTD
             </p>
           </div>
         </footer>
@@ -292,7 +292,7 @@ const translations = {
     setupGuide: "Setup Guide (Blogger)",
     domainDesc: "This domain is yours, sir. For your own journey.",
     longJourney: "Hope you have a long journey with students, sir.",
-    yours: "Yours, Dineth Dilhara",
+    yours: "Yours,Dineth Dilshan",
     footerTribute: "A tribute to a mentor"
   },
   si: {
@@ -306,12 +306,12 @@ const translations = {
     photoLabel: "ඡායාරූපය: මහානාමයේ මතකයන්",
     photoSub: "ඡායාරූපය: අපේ හොඳම මතකයන්ගෙන් එකක්",
     ycsSuccess: "සර් මගේ හැකියාව දැකලා මට YCS යන්න කිව්වා. මම හරිම ලේසියෙන් සමස්ත ලංකා දෙවන (සමස්ත තරගාවලියෙන්) ස්ථානය ලබාගත්තා. ජාත්‍යන්තර විද්‍යා ප්‍රදර්ශන සුදුසුකම් ලැබීමේදී ලෝකයේ ඉහළම පුද්ගලයින් මුණගැහෙන්න ලැබුණෙත් සර් නිසයි!",
-    quote: "“8-1 රස්සාවක් කරන ඉස්කෝලේ මහත්තයෙකුට වඩා, තමන්ගේ ව්‍යාපාරය ගැන තීරණ ගන්න ත්‍රීවීල් රියදුරෙකුට නිදහස තියෙනවා.”",
-    lessonTitle: "මගේ අනාගතය වෙනස් කළ පාඩම",
+    quote: "“8-5 රස්සාවක් කරන කෙනෙකුට වඩා, තමන්ගේ ව්‍යාපාරය ගැන තීරණ ගන්න ත්‍රීවීල් රියදුරෙකුට නිදහස තියෙනවා.”",
+    lessonTitle: "සර් මට දවසක් මේක කිව්වා මම මේ කියපු දේ ගැන ලොකු අවධානයකින් ඉන්නේ",
     businessP1: "Apilageai කල්පනාව මුලින්ම මගේ හිතට ආවේ සර් නිසයි. මම ඒක සැබෑ ව්‍යාපාරයක් දක්වා දියුණු කළා, දැන් මම ඒකෙන් ආදායමකුත් ලබනවා.",
     businessP2: "මගේ හීනය තමයි ICT පැත්තෙන් උපාධියක් අරගෙන මගේම සමාගමක් පටන් ගන්න එක. ඒ වගේම ICT ක්ෂේත්‍රයේ ප්‍රමුඛයෙක් වෙන්නත් කැමැතියි. තීරණ ගැනීමේ නිදහස ගැන මට කියා දුන්නට පින් සර්ට.",
     seeYou: "සර්ට ඕනෑම වෙලාවක මම සර්ව බලන්න එනවා.",
-    exploreGift: "දිනෙත්ගෙන් සර්ට තෑග්ගක්",
+    exploreGift: "මගෙන් සර්ට තෑග්ගක්",
     giftSource: "Apilageai PVT LTD එකෙන් මම ලැබූ මගේ පළමු ආදායමෙන් ගත් එකක්",
     smallToken: "පුංචි සිහිවටනයක්",
     giftMotive: "ඉතින් සර්, භෞතික තෑග්ගකට වඩා ICT වලින් මාව දිරිමත් කරපු මගේ ගුරුවරයාට මේ වගේ තෑග්ගක් වටීවි කියලා මම හිතනවා.",
@@ -326,7 +326,7 @@ const translations = {
     setupGuide: "සකස් කිරීමේ උපදෙස් (Blogger)",
     domainDesc: "සර්, මේ ඩොමේන් එක සර් වෙනුවෙන්මයි. සර්ගේ ගමනට මේක උදව්වක් වේවි.",
     longJourney: "සර්ගේ මේ ගමන තවත් සිසුන් රැසකට ආලෝකයක් වේවා කියලා ප්‍රාර්ථනා කරනවා.",
-    yours: "මීට, දිනෙත් දිල්හාර",
+    yours: "මීට, දිනෙත් ",
     footerTribute: "ගුරුවරයෙකුට කරන උපහාරයක්"
   }
 };
